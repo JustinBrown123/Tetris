@@ -1,3 +1,10 @@
+Followed a React Tutorial on how to Create a Tetris game while learning about hooks in react.
+
+To play in control use the arrow buttons on your keyboard 
+Left moves left, Right moves right, Down make the Tetris move faster, and Up rotates the tetris Piece.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
